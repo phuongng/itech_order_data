@@ -1,0 +1,74 @@
+[
+  {
+    "order_id": "ORD1001",
+    "order_items": [
+      {"product_name": "iPhone 15", "quantity": 2}
+    ],
+    "order_invoice": 1599.98
+  },
+  {
+    "order_id": "ORD1002",
+    "order_items": [
+      {"product_name": "iPad Pro", "quantity": 1},
+      {"product_name": "Magic Keyboard", "quantity": 2}
+    ],
+    "order_invoice": 309.97
+  },
+  {
+    "order_id": "ORD1003",
+    "order_items": [
+      {"product_name": "MacBook Pro 16-inch", "quantity": 2}
+    ],
+    "order_invoice": 4799.98
+  },
+  {
+    "order_id": "ORD1004",
+    "order_items": [
+      {"product_name": "Magic Mouse 2", "quantity": 1}
+    ],
+    "order_invoice": 79.99
+  },
+  {
+    "order_id": "ORD1005",
+    "order_items": [
+      {"product_name": "iPhone 14 Pro", "quantity": 2}
+    ],
+    "order_invoice": 1599.98
+  },
+  {
+    "order_id": "ORD1006",
+    "order_items": [
+      {"product_name": "MacBook Air", "quantity": 1},
+      {"product_name": "Magic Keyboard", "quantity": 1}
+    ],
+    "order_invoice": 229.98
+  },
+  {
+    "order_id": "ORD1007",
+    "order_items": [
+      {"product_name": "Magic Mouse 2", "quantity": 2}
+    ],
+    "order_invoice": 159.98
+  },
+  {
+    "order_id": "ORD1008",
+    "order_items": [
+      {"product_name": "MacBook Pro 13-inch", "quantity": 1}
+    ],
+    "order_invoice": 1299.99
+  },
+  {
+    "order_id": "ORD1009",
+    "order_items": [
+      {"product_name": "iPhone 15 Pro", "quantity": 1}
+    ],
+    "order_invoice": 999.99
+  },
+  {
+    "order_id": "ORD1010",
+    "order_items": [
+      {"product_name": "iPad Air", "quantity": 2}
+    ],
+    "order_invoice": 1199.98
+  }
+]
